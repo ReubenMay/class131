@@ -9,7 +9,7 @@ width: 100%;
 margin: 0px;
 }
 
-#status
+#status,#start_model,#number_of_objects
 {
 font-size: 18px;
 }
@@ -18,4 +18,6 @@ canvas{
     border-radius: 10px ;
     border-color: 10px solid black;
     box-shadow:5px 5px 5px red ;
+    margin-top: 20px;
 }
+
